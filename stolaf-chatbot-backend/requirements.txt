@@ -1,0 +1,10 @@
+torch
+accelerate
+tensorflow
+transformers
+datasets
+flask
+flask_cors
+fastapi
+uvicorn
+huggingface_hub[cli]

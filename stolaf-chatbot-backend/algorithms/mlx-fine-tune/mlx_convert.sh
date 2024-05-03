@@ -1,0 +1,1 @@
+python3 -m mlx_lm.convert --hf-path google/gemma-7b-it -q
